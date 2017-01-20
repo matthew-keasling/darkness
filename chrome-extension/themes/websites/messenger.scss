@@ -101,8 +101,6 @@ a[role="button"] svg {
 	@include invert-back();
 }
 
-
-
 // Bubble: theirs
 ._29_7 >._hh7 {
 	background-color: $theme-background-box !important;
@@ -118,7 +116,7 @@ a[role="button"] svg {
 ._nd_ ._hh7 {
 	-webkit-filter: invert(1) !important;
 }
-._nd_ ._hh7 img{
+._nd_ ._hh7 img, ._4rv9 .img {
 	-webkit-filter: invert(0) !important;
 }
 
